@@ -1,2 +1,2 @@
 # coc_gateway
-gateway
+关于COC的网关
